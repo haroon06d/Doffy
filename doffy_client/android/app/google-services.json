@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "406185778795",
+    "project_id": "doffy-project-26792",
+    "storage_bucket": "doffy-project-26792.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406185778795:android:52bb64c571d0a103875b2e",
+        "android_client_info": {
+          "package_name": "com.example.doffy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvVh_UEO4D-zlxAU36shIL2duP04rWClc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406185778795:android:349fce1a3f9998c5875b2e",
+        "android_client_info": {
+          "package_name": "com.example.doffy_client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvVh_UEO4D-zlxAU36shIL2duP04rWClc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
